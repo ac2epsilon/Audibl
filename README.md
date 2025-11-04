@@ -24,6 +24,3 @@ while sleep 5; do
   fi
 done
 ```
-done
-
-```
